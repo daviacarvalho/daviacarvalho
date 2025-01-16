@@ -5,4 +5,5 @@
    - Master fullstack development and contribute to open-source projects.
    - Build impactful web applications that solve real-world problems.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,python,mysql)](https://skillicons.dev)
+Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,mysql)](https://skillicons.dev)
