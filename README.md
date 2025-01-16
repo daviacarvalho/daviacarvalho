@@ -6,5 +6,4 @@
    - Build impactful web applications that solve real-world problems.
 
 <h1>Skills</h1>
-<br></br>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,mysql)](https://skillicons.dev)
