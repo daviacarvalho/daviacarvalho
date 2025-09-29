@@ -6,4 +6,4 @@ Hi! My name is Davi Carvalho 🇧🇷👋
 - 🚀 I love tackling challenges and building projects.
 - 💡 My focus is on creating impactful web applications that solve real-world problems.
 ## Skills  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,python,mysql,postgre,aws)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,python,mysql,postgresql,aws)](https://skillicons.dev)  
